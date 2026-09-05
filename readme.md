@@ -26,7 +26,7 @@
       Designing robust backend architectures, building RESTful APIs, and optimizing databases.
       <br/><br/>
       <b>Active Project:</b><br/>
-      Scaling <b>SpaceBot</b>, a high-fidelity Discord bot currently trusted by over <b>2 million users</b> globally.
+      Scaling <b>A Music Bot</b>, a high-fidelity Discord bot currently trusted by over <b>2 million users</b> globally.
       <br/><br/>
     </td>
     <td width="40%" align="center" valign="center">
