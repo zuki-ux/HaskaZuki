@@ -28,8 +28,6 @@
       <b>Active Project:</b><br/>
       Scaling <b>SpaceBot</b>, a high-fidelity Discord bot currently trusted by over <b>2 million users</b> globally.
       <br/><br/>
-      <b>Professional Goal:</b><br/>
-      Deepening expertise in <b>Distributed Systems</b> and <b>Cloud Infrastructure</b> while maintaining large-scale platforms.
     </td>
     <td width="40%" align="center" valign="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
